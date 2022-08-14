@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "431857708921",
+    "project_id": "registration-app-c45c2",
+    "storage_bucket": "registration-app-c45c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431857708921:android:a5d33ba37e4aa589acc9a8",
+        "android_client_info": {
+          "package_name": "developer.abdulaziz.myregistrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431857708921-pgg1qqgvrtdbm8smcmp7gm5eropgckas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqcTyv9JHju6etVlxaT8cjfuLTm06CpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431857708921-pgg1qqgvrtdbm8smcmp7gm5eropgckas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431857708921:android:01289c3d94daec98acc9a8",
+        "android_client_info": {
+          "package_name": "developer.abdulaziz.registrationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431857708921-pgg1qqgvrtdbm8smcmp7gm5eropgckas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqcTyv9JHju6etVlxaT8cjfuLTm06CpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431857708921-pgg1qqgvrtdbm8smcmp7gm5eropgckas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
